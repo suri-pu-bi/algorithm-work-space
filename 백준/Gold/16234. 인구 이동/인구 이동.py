@@ -1,6 +1,3 @@
-# 1. BFS로 상하좌우 탐색 인덱스랑 값 뽑아내기
-# 2. 계산 -> map에 인구 수 바꾸기
-# 3. 다시 반복문 돌다가 만약, BFS로 다 돌았는데, 차이나는게 없다면 break
 import sys
 from collections import deque
 
@@ -35,7 +32,7 @@ def bfs(x,y):
 
 answer = 0
 while True:
-    visited = [[False] * (N+1) for _ in range(N+1)]
+    visited = [[0] * (N) for _ in range(N)]
     flag = False
 
     for i in range(N):
