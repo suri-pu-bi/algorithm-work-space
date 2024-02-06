@@ -5,6 +5,7 @@
 * [Gold4 인구이동 16234](https://imported-event-228.notion.site/16234-3f41af18977b4a2c84d3abd930838bc4?pvs=4)
 * [Gold4 감시 15683](https://imported-event-228.notion.site/15683-629f973294a5415198baaa1da72f38d4?pvs=4)
 * [Gold4 테트로미노 14500](https://imported-event-228.notion.site/14500-d400a10f78804c508aed5b5043a2cc0c?pvs=4)
+* [Gold4 주사위 굴리기 14499](https://imported-event-228.notion.site/14499-61dd287f6f3d488dbda019337ca4fa34?pvs=4)
 
 <br>
 
