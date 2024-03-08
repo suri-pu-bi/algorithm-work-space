@@ -11,6 +11,7 @@
 * [Gold3 벽 부수고 이동하기2 14442](https://imported-event-228.notion.site/14442-7c02032b3704478391afc20e936e7842?pvs=4)
 * [Gold4 단어 수학 1339](https://imported-event-228.notion.site/1339-d4fb2fa9411f48aa9859c52c5836d9bc?pvs=4)
 * [Gold5 센서 2212](https://imported-event-228.notion.site/2212-2286e25d5a854b2ab9543fead035fc45?pvs=4)
+* [Gold2 빵집 3109](https://imported-event-228.notion.site/3109-7b246e018fbf4bb7a36841202aaa76a6?pvs=4)
 <br>
 
 ## Programmers
