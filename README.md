@@ -12,6 +12,7 @@
 * [Gold4 단어 수학 1339](https://imported-event-228.notion.site/1339-d4fb2fa9411f48aa9859c52c5836d9bc?pvs=4)
 * [Gold5 센서 2212](https://imported-event-228.notion.site/2212-2286e25d5a854b2ab9543fead035fc45?pvs=4)
 * [Gold2 빵집 3109](https://imported-event-228.notion.site/3109-7b246e018fbf4bb7a36841202aaa76a6?pvs=4)
+* [Gold2 저울 2437](https://imported-event-228.notion.site/2437-4b250e80f1f54e12864dc93371043fd6?pvs=4)
 <br>
 
 ## Programmers
