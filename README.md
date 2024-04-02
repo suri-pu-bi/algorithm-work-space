@@ -14,6 +14,7 @@
 * [Gold2 빵집 3109](https://imported-event-228.notion.site/3109-7b246e018fbf4bb7a36841202aaa76a6?pvs=4)
 * [Gold2 저울 2437](https://imported-event-228.notion.site/2437-4b250e80f1f54e12864dc93371043fd6?pvs=4)
 * [Gold2 컵라면 1781](https://imported-event-228.notion.site/1781-6d402c253d294661a114aba48fdabbeb?pvs=4)
+* [Gold4 치즈 2636](https://imported-event-228.notion.site/2636-4e663487224d4fc189f26ae6dd07201d?pvs=4)
 <br>
 
 ## Programmers
