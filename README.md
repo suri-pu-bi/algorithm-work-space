@@ -15,7 +15,8 @@
 * [Gold2 저울 2437](https://imported-event-228.notion.site/2437-4b250e80f1f54e12864dc93371043fd6?pvs=4)
 * [Gold2 컵라면 1781](https://imported-event-228.notion.site/1781-6d402c253d294661a114aba48fdabbeb?pvs=4)
 * [Gold4 치즈 2636](https://imported-event-228.notion.site/2636-4e663487224d4fc189f26ae6dd07201d?pvs=4)
-* [Gol5 맥주마시면서 걸어가기 9205](https://imported-event-228.notion.site/9205-10d32846cf448043b5abf15daa10ad3a?pvs=4)
+* [Gold5 맥주마시면서 걸어가기 9205](https://imported-event-228.notion.site/9205-10d32846cf448043b5abf15daa10ad3a?pvs=4)
+* [Gold4 운동 1956](https://imported-event-228.notion.site/1956-10f32846cf44801ab010fdee6af688b1?pvs=4)
 <br>
 
 ## Programmers
