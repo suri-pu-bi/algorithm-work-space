@@ -17,6 +17,7 @@
 * [Gold4 치즈 2636](https://imported-event-228.notion.site/2636-4e663487224d4fc189f26ae6dd07201d?pvs=4)
 * [Gold5 맥주마시면서 걸어가기 9205](https://imported-event-228.notion.site/9205-10d32846cf448043b5abf15daa10ad3a?pvs=4)
 * [Gold4 운동 1956](https://imported-event-228.notion.site/1956-10f32846cf44801ab010fdee6af688b1?pvs=4)
+* [Gold5 Z 1074](https://imported-event-228.notion.site/1074-11132846cf4480ba92f7e04ad21346d1?pvs=4)
 <br>
 
 ## Programmers
