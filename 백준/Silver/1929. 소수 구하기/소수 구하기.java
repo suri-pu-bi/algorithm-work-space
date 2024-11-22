@@ -40,4 +40,10 @@ public class Main {
 			}
 		}
 	}
+    
+    /* 배열에서 특정 숫자 포함 여부 확인
+		static int i;
+		IntStream.of(nums).anyMatch(x -> x == i)
+
+	 */
 }
